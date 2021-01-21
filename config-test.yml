@@ -1,1 +1,2 @@
-测试1
+config:
+  info: "mester branch,springcloud-config/config-test.yml version-1"
